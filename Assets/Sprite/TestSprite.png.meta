@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 069f3bb0343468647ba52fa05eaaa033
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TestSprite_Head
+    21300002: TestSprite_Body
+    21300004: TestSprite_FronArm
+    21300006: TestSprite_BackArm
+    21300008: TestSprite_FrontLeg
+    21300010: TestSprite_BackLeg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TestSprite_Head
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 391
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestSprite_Body
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 96
+        width: 153
+        height: 284
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestSprite_FronArm
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 259
+        width: 150
+        height: 168
+      alignment: 9
+      pivot: {x: .0951418057, y: .9217273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestSprite_BackArm
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 266
+        width: 150
+        height: 169
+      alignment: 9
+      pivot: {x: .086145021, y: .911246777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestSprite_FrontLeg
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 33
+        width: 55
+        height: 163
+      alignment: 9
+      pivot: {x: .512269199, y: .864289761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestSprite_BackLeg
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 23
+        width: 55
+        height: 163
+      alignment: 9
+      pivot: {x: .512268066, y: .893267274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
